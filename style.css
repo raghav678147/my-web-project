@@ -1,0 +1,15 @@
+ #head{
+    color:rgba(255, 0, 0, 0.751);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  #head2{
+    color:rgb(210, 171, 251);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: end;
+  }
+  #h3{
+    color: rgb(231, 173, 173);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: end;
+  }
